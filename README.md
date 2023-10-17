@@ -1,6 +1,12 @@
-# Getting Started with Create React App
+# MUI Tutorial
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[Udemy Course Link ](https://www.udemy.com/course/material-ui/).
+
+## Section
+
+1.1 Typography
+1.2 Buttons
+1.3 Textfield
 
 ## Available Scripts
 
