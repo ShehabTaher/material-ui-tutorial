@@ -1,7 +1,6 @@
 import React, { useState } from "react";
-import { TextField, Typography } from "@mui/material";
+import { TextField, Typography, Button } from "@mui/material";
 const MuiTextField = () => {
-  const [name, setName] = useState(" ");
   return (
     <div>
       {/*
@@ -9,9 +8,8 @@ const MuiTextField = () => {
        ==> variant : Styles
        ==> Additional Properties : onChange,type
        */}
+
       <TextField
-        value={name}
-        onChange={(e) => setName(e.target.value)}
         type="text"
         sx={{ margin: 3 }}
         placeholder="Name"
@@ -29,7 +27,6 @@ const MuiTextField = () => {
         placeholder="Password"
         variant="filled"
       />
-      <Typography>{name}</Typography>
     </div>
   );
 };

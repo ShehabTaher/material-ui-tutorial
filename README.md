@@ -4,9 +4,20 @@
 
 ## Section
 
+### Section One
+
 1.1 Typography
 1.2 Buttons
 1.3 Textfield
+
+### Section Two : Handling
+
+2.1 Textfield
+2.2 Checkbox
+3.3 Dropdown
+3.4 RadioButton
+
+### Section Three : Header Navigation Bar
 
 ## Available Scripts
 
