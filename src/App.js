@@ -22,6 +22,7 @@ import SnackbarComponent from './sectionFour/SnackbarComponent'
 import ProgressComponent from './sectionFour/ProgressComponent'
 import RatingComponent from './sectionFour/RatingComponent'
 import ImageListComponent from './sectionFour/ImageListComponent'
+import ValidationComponent from './sectionFive/ValidationComponent'
 
 function App() {
   return (
@@ -50,6 +51,7 @@ function App() {
       {/* <ProgressComponent /> */}
       {/* <RatingComponent /> */}
       {/* <ImageListComponent /> */}
+      <ValidationComponent />
     </div>
   )
 }

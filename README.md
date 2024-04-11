@@ -40,6 +40,10 @@
 4.13 Rating
 4.14 ImageList
 
+### Section Five : Validation with React Hook
+
+5.1 Validation
+
 ## Available Scripts
 
 In the project directory, you can run:
