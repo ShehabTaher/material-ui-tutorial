@@ -23,6 +23,23 @@
 3.2 Tabs
 3.3 Menu and MenuItem
 
+### Section Four : Advanced Components
+
+4.1 Card
+4.2 Dialog
+4.3 Modal
+4.4 Link
+4.5 Container
+4.6 List
+4.7 Accordion
+4.8 Autocomplete
+4.9 Drawer
+4.10 Alert
+4.11 Snackbar
+4.12 Progress
+4.13 Rating
+4.14 ImageList
+
 ## Available Scripts
 
 In the project directory, you can run:
