@@ -2,7 +2,7 @@
 
 [Udemy Course Link ](https://www.udemy.com/course/material-ui/).
 
-## Section
+## Sections
 
 ### Section One
 
@@ -43,6 +43,10 @@
 ### Section Five : Validation with React Hook
 
 5.1 Validation
+
+### Section Six : Data Grid
+
+6.1 Data Grid
 
 ## Available Scripts
 
