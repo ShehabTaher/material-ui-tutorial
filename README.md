@@ -60,6 +60,15 @@
 
 9.1 Grid
 
+### Section Ten : Advanced Responsive Styles
+
+10.1 All About Responsiveness & Setting Responsive Text
+10.2 Setting Responsive Any Text
+
+### Section Eleven : Navigation Bar
+
+11. Make Navigation bar
+
 ## Available Scripts
 
 In the project directory, you can run:

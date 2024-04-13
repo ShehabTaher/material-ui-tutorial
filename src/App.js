@@ -28,6 +28,9 @@ import DataGridComponent from './sectionSix/DataGridComponent'
 import ThemeProviderComponent from './sectionSeven/ThemeProviderComponent'
 import IconComponent from './sectionEight/IconComponent'
 import GridComponent from './sectionNine/GridComponent'
+import ResponsiveTextComponent from './sectionTen/ResponsiveTextComponent'
+import ResponsiveAnyComponent from './sectionTen/ResponsiveAnyComponent'
+import NavbarComponent from './sectionEleven/NavbarComponent'
 
 function App() {
   return (
@@ -60,7 +63,10 @@ function App() {
       {/* <DataGridComponent /> */}
       {/* <ThemeProviderComponent /> */}
       {/* <IconComponent /> */}
-      <GridComponent />
+      {/* <GridComponent /> */}
+      {/* <ResponsiveTextComponent /> */}
+      {/* <ResponsiveAnyComponent /> */}
+      <NavbarComponent />
     </div>
   )
 }
