@@ -48,6 +48,14 @@
 
 6.1 Data Grid
 
+### Section Seven : Theming and Styling
+
+7.1 Data Grid
+
+### Section Eight : Icons
+
+8.1 Icons
+
 ## Available Scripts
 
 In the project directory, you can run:

@@ -26,6 +26,7 @@ import ImageListComponent from './sectionFour/ImageListComponent'
 import ValidationComponent from './sectionFive/ValidationComponent'
 import DataGridComponent from './sectionSix/DataGridComponent'
 import ThemeProviderComponent from './sectionSeven/ThemeProviderComponent'
+import IconComponent from './sectionEight/IconComponent'
 
 function App() {
   return (
@@ -56,7 +57,8 @@ function App() {
       {/* <ImageListComponent /> */}
       {/* <ValidationComponent /> */}
       {/* <DataGridComponent /> */}
-      <ThemeProviderComponent />
+      {/* <ThemeProviderComponent /> */}
+      <IconComponent />
     </div>
   )
 }
