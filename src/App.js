@@ -27,6 +27,7 @@ import ValidationComponent from './sectionFive/ValidationComponent'
 import DataGridComponent from './sectionSix/DataGridComponent'
 import ThemeProviderComponent from './sectionSeven/ThemeProviderComponent'
 import IconComponent from './sectionEight/IconComponent'
+import GridComponent from './sectionNine/GridComponent'
 
 function App() {
   return (
@@ -58,7 +59,8 @@ function App() {
       {/* <ValidationComponent /> */}
       {/* <DataGridComponent /> */}
       {/* <ThemeProviderComponent /> */}
-      <IconComponent />
+      {/* <IconComponent /> */}
+      <GridComponent />
     </div>
   )
 }

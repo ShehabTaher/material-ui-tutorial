@@ -56,6 +56,10 @@
 
 8.1 Icons
 
+### Section Nine : Grid
+
+9.1 Grid
+
 ## Available Scripts
 
 In the project directory, you can run:
