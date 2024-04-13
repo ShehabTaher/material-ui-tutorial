@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import MuiTypography from './sectionOne/MuiTypography'
 import MuiButton from './sectionOne/MuiButton'
 import MuiTextField from './sectionOne/MuiTextField'
@@ -24,6 +25,7 @@ import RatingComponent from './sectionFour/RatingComponent'
 import ImageListComponent from './sectionFour/ImageListComponent'
 import ValidationComponent from './sectionFive/ValidationComponent'
 import DataGridComponent from './sectionSix/DataGridComponent'
+import ThemeProviderComponent from './sectionSeven/ThemeProviderComponent'
 
 function App() {
   return (
@@ -54,6 +56,7 @@ function App() {
       {/* <ImageListComponent /> */}
       {/* <ValidationComponent /> */}
       {/* <DataGridComponent /> */}
+      <ThemeProviderComponent />
     </div>
   )
 }
